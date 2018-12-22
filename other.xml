@@ -1,0 +1,64 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.13.0" last-modified="1540881514000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="255-0-0-255,,,139-0-0-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.91727144" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="PLUGIN_FILTER" value="HTTP Client&#10;pasteb&#10;paste" />
+    <property name="RD.Init.Cfg.2" value="true" />
+    <property name="RD.Init.DialogShown.Ide" value="true" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SettingsSearchHistory" value="Tab,Indent&#10;brow&#10;enviro" />
+    <property name="TrendingPluginsSearchHistory" value="browser&#10;discord" />
+    <property name="evlsprt3.182" value="10" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="file.chooser.recent.files" value="D:/Downloads/blast.browser.zip&#10;D:/Downloads/webbrowser4idea-0.1.zip&#10;D:/Downloads/webbrowser4idea.zip&#10;D:/Downloads/browserfx.jar&#10;D:/Projects/Nimbatus/Nimbatus-Mods/OmegaMod/packages/Newtonsoft.Json.12.0.1/lib/net45/Newtonsoft.Json.dll&#10;C:/Users/OmegaRogue/AppData/Roaming/discordptb/databases/Databases.db&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/AmplifyColor.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/UnityEngine.AssetBundleModule.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed_backup/Assembly-CSharp.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/UnityEngine.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/MonoMod.Utils.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/HOOKS-Assembly-CSharp.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/Assembly-CSharp.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Partiality.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/MonoMod.exe&#10;D:/Projects/Nimbatus/Nimbatus-Mods/OmegaMod&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/OmegaMod.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/Partiality.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/MonoMod.Utils.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/UnityEngine.UI.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/MonoMod.BaseLoader.dll&#10;C:/Program Files (x86)/Steam/steamapps/common/Nimbatus/Windows64/Nimbatus_Data/Managed/MonoMod.exe&#10;C:/Users/OmegaRogue/Source/Repos/Nimbatus-Mods/OmegaMod/OmegaMod.sln&#10;C:/Users/OmegaRogue/RiderProjects/OmegaOcControl/Export.xml&#10;C:/Users/OmegaRogue/RiderProjects/OmegaOcControl&#10;C:/Users/OmegaRogue/RiderProjects/OmegaOcControl/request.json&#10;C:/Users/OmegaRogue/RiderProjects/DiscordBots/DiscordBots.sln&#10;C:/Users/OmegaRogue/RiderProjects/OmegaBot/OmegaBot.csproj&#10;D:/Downloads/Lua-1.0.113.zip" />
+    <property name="file.gist.reindex.count" value="52" />
+    <property name="fileTypeChangedCounter" value="20" />
+    <property name="ignoreUltimateEdition" value="true" />
+    <property name="last_open_solution_path" value="D:/Projects/Nimbatus/Nimbatus-Mods/OmegaMod" />
+    <property name="last_selected_template" value="Unity Class Library|.NET" />
+    <property name="last_selected_template_parameters" value="Language=C#;PathToUnityEngine=C:\Program Files\Unity\Hub\Editor\2018.2.15f1\Editor\Data\Managed\UnityEngine.dll;Framework=v4.7.1;" />
+    <property name="plugins.preselection.path" value="D:/Downloads" />
+    <property name="settings.code.style.selected.tab.C#" value="Tabs, Indents, Alignment" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="true" url="https://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password />
+      <token>df92dfcfdfcbdf98df9bdf9edfc9df9adf9edf9fdfccdf9ddf9adf9ddf9bdf9fdf9bdf98df9edfcedfccdfc9dfcbdfccdf99df99df99dfcedfcfdfccdf9bdf9bdf9edfcedfcbdf99df92dfcfdf98df9b</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="OmegaRogue" />
+      <option name="repoName" value="Nimbatus-Mods" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+    <YouTrack shared="true" url="https://omeaga.myjetbrains.com/youtrack">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>dfccdf98dfc4dfccdf8cdf9ddf92df8bdfdddfe6dfcedfe9</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>OmegaRogue</username>
+    </YouTrack>
+  </component>
+</application>
