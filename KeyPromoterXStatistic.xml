@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Default'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Run 'Default'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
