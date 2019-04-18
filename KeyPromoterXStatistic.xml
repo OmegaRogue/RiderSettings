@@ -17,6 +17,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Errors In Solution">
+        <Item>
+          <IdeaActionID>ActivateErrorsInSolutionToolWindow</IdeaActionID>
+          <ShortCut>'Strg+Alt+2'</ShortCut>
+          <Description>Errors In Solution</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Generate...">
         <Item>
           <IdeaActionID>Generate</IdeaActionID>
@@ -30,6 +38,14 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'Strg+Umschalt+N'</ShortCut>
           <Description>New Project...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties...">
+        <Item>
+          <IdeaActionID>EditPropertiesAction</IdeaActionID>
+          <ShortCut>'Alt+Eingabe'</ShortCut>
+          <Description>Properties...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -87,6 +103,14 @@
           <ShortCut>'Alt+8' or 'Alt+Umschalt+8'</ShortCut>
           <Description>Unit Tests</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'Strg+Alt+W'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
     </option>
