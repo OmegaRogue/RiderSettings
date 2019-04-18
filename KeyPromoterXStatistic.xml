@@ -30,7 +30,15 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Surround with Live Template...">
+        <Item>
+          <IdeaActionID>SurroundWithLiveTemplate</IdeaActionID>
+          <ShortCut>'Strg+E, U' or 'Strg+E, Strg+U'</ShortCut>
+          <Description>Surround with Live Template...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
