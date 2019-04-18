@@ -9,20 +9,12 @@
           <Count>2</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Code Cleanup...">
-        <Item>
-          <IdeaActionID>CodeCleanup</IdeaActionID>
-          <ShortCut>'Strg+E, C' or 'Strg+E, Strg+C'</ShortCut>
-          <Description>Code Cleanup...</Description>
-          <Count>2</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Commit...">
         <Item>
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+Alt+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -31,6 +23,22 @@
           <ShortCut>'F12'</ShortCut>
           <Description>Declaration</Description>
           <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'TenorAPI.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'TenorAPI.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'TenorSharp.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'TenorSharp.csproj'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Errors In Solution">
@@ -70,7 +78,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Eingabe'</ShortCut>
           <Description>Properties...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -78,7 +86,7 @@
           <IdeaActionID>ReformatCode</IdeaActionID>
           <ShortCut>'Strg+Alt+Eingabe' or 'Strg+K, F' or 'Strg+K, Strg+F' or 'Strg+K, D' or 'Strg+K, Strg+D'</ShortCut>
           <Description>Reformat Code</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -86,7 +94,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'Strg+R, R' or 'Strg+R, Strg+R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -94,7 +102,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>10</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -135,6 +143,24 @@
           <ShortCut>'Strg+Alt+W'</ShortCut>
           <Description>Update Project...</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Variable...">
+        <Item>
+          <IdeaActionID>IntroduceVariable</IdeaActionID>
+          <ShortCut>'Strg+R, V' or 'Strg+R, Strg+V'</ShortCut>
+          <Description>Variable...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+    </option>
+    <option name="suppressed">
+      <Statistic Action="Code Cleanup...">
+        <Item>
+          <IdeaActionID>CodeCleanup</IdeaActionID>
+          <ShortCut>'Strg+E, C' or 'Strg+E, Strg+C'</ShortCut>
+          <Description>Code Cleanup...</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
     </option>
