@@ -17,6 +17,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'F12'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Errors In Solution">
         <Item>
           <IdeaActionID>ActivateErrorsInSolutionToolWindow</IdeaActionID>
@@ -46,7 +54,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Eingabe'</ShortCut>
           <Description>Properties...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -62,7 +70,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'Strg+R, R' or 'Strg+R, Strg+R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -70,7 +78,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -78,7 +86,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround with Live Template...">
