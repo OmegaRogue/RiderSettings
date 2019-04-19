@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Strg+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Auto-Indent Lines">
@@ -30,7 +30,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+Alt+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Declaration">
@@ -39,6 +39,30 @@
           <ShortCut>'F12'</ShortCut>
           <Description>Declaration</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Docker">
+        <Item>
+          <IdeaActionID>ActivateDockerToolWindow</IdeaActionID>
+          <ShortCut>'Alt+4, 2'</ShortCut>
+          <Description>Docker</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'DiscordBots.sln'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'DiscordBots.sln'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'OmegaBot.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'OmegaBot.csproj'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'TenorAPI.csproj'">
@@ -102,7 +126,7 @@
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
           <ShortCut>'Alt+7' or 'Alt+Umschalt+7'</ShortCut>
           <Description>NuGet</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
@@ -110,7 +134,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Eingabe'</ShortCut>
           <Description>Properties...</Description>
-          <Count>14</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -118,7 +142,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Strg+Umschalt+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -142,7 +166,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -150,7 +174,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>31</Count>
+          <Count>41</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run on Black Pearl'">
@@ -158,6 +182,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Run on Black Pearl'</Description>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run Unit Tests">
+        <Item>
+          <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
+          <ShortCut>'Strg+U, R' or 'Strg+U, Strg+R'</ShortCut>
+          <Description>Run Unit Tests</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -166,7 +198,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
@@ -174,7 +206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Umschalt+F5'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>1</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround with Live Template...">
@@ -190,7 +222,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
