@@ -1,6 +1,6 @@
 <application>
   <component name="RemoteServers">
-    <remote-server name="Docker" type="docker">
+    <remote-server name="Kitematic" type="docker">
       <configuration>
         <option name="apiUrl" value="https://192.168.99.100:2376" />
         <option name="certificatesPath" value="C:\Users\OmegaRogue\.docker\machine\machines\default" />
@@ -16,6 +16,14 @@
               <option name="virtualMachinePath" value="/d/" />
             </DockerPathMappingImpl>
           </list>
+        </option>
+      </configuration>
+    </remote-server>
+    <remote-server name="Hypriot" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://black-pearl.fritz.box:2375" />
+        <option name="pathMappings">
+          <list />
         </option>
       </configuration>
     </remote-server>
