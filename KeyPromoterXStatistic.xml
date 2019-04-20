@@ -54,7 +54,7 @@
           <IdeaActionID>ActivateDockerToolWindow</IdeaActionID>
           <ShortCut>'Alt+4, 2'</ShortCut>
           <Description>Docker</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'DiscordBots.sln'">
