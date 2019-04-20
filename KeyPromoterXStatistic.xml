@@ -142,7 +142,7 @@
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
           <ShortCut>'Alt+7' or 'Alt+Umschalt+7'</ShortCut>
           <Description>NuGet</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
