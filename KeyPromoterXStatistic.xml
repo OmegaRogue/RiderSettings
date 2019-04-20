@@ -142,7 +142,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Eingabe'</ShortCut>
           <Description>Properties...</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -190,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>52</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run on Black Pearl'">
@@ -222,7 +222,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Umschalt+F5'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>11</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround with Live Template...">
