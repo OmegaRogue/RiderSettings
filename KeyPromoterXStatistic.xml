@@ -46,7 +46,7 @@
           <IdeaActionID>ActivateDockerToolWindow</IdeaActionID>
           <ShortCut>'Alt+4, 2'</ShortCut>
           <Description>Docker</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'DiscordBots.sln'">
@@ -79,6 +79,14 @@
           <ShortCut>'F4'</ShortCut>
           <Description>Edit 'TenorSharp.csproj'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'TenorTest.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'TenorTest.csproj'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Errors In Solution">
@@ -161,6 +169,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Repeat Previous Run">
+        <Item>
+          <IdeaActionID>RiderUnitTestRepeatPreviousRunAction</IdeaActionID>
+          <ShortCut>'Strg+U, U' or 'Strg+U, Strg+U'</ShortCut>
+          <Description>Repeat Previous Run</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run">
         <Item>
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
@@ -174,7 +190,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>41</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Run on Black Pearl'">
@@ -182,7 +198,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Run on Black Pearl'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run Unit Tests">
@@ -190,7 +206,7 @@
           <IdeaActionID>RiderUnitTestRunContextAction</IdeaActionID>
           <ShortCut>'Strg+U, R' or 'Strg+U, Strg+R'</ShortCut>
           <Description>Run Unit Tests</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -198,7 +214,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>24</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
