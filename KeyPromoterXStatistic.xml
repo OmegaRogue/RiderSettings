@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDockerToolWindow</IdeaActionID>
           <ShortCut>'Alt+4, 2'</ShortCut>
           <Description>Docker</Description>
-          <Count>16</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'DiscordBots.sln'">
@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
           <ShortCut>'Alt+7' or 'Alt+Umschalt+7'</ShortCut>
           <Description>NuGet</Description>
-          <Count>16</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -249,6 +249,14 @@
           <Count>97</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'MySQL'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Strg+F5'</ShortCut>
+          <Description>Run 'MySQL'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Run on Black Pearl'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -310,7 +318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'F9'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unit Tests">
