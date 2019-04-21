@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+Alt+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>20</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -113,12 +113,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit 'TenorAPI.sln'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'TenorAPI.sln'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit 'TenorSharp.csproj'">
         <Item>
           <IdeaActionID>RiderEditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit 'TenorSharp.csproj'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Edit 'TenorTest.csproj'">
@@ -174,7 +182,7 @@
           <IdeaActionID>ActivateNuGetToolWindow</IdeaActionID>
           <ShortCut>'Alt+7' or 'Alt+Umschalt+7'</ShortCut>
           <Description>NuGet</Description>
-          <Count>9</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties...">
@@ -182,7 +190,7 @@
           <IdeaActionID>EditPropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Eingabe'</ShortCut>
           <Description>Properties...</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Push...">
@@ -190,7 +198,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Strg+Umschalt+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Reformat Code">
@@ -254,7 +262,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
@@ -286,7 +294,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Strg+Alt+1'</ShortCut>
           <Description>Terminal</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
