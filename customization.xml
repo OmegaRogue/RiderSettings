@@ -925,6 +925,11 @@
       <path value="Extract" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="HandleTrackedIgnoredFiles" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main menu" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="ExtractModule" is_action="true" action_type="1" position="13">
       <path value="root" />
       <path value="Main menu" />

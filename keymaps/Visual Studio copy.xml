@@ -5,6 +5,9 @@
   <action id="ActivateRunToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" second-keystroke="1" />
   </action>
+  <action id="HandleTrackedIgnoredFiles">
+    <keyboard-shortcut first-keystroke="ctrl numpad0" />
+  </action>
   <action id="RemoteServers.ChooseServerDeployment">
     <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
