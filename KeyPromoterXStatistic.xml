@@ -1,6 +1,22 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="2">
+        <Item>
+          <IdeaActionID>ExpandAllToLevel2</IdeaActionID>
+          <ShortCut>'Strg+Umschalt+NumPad *, 2' or 'Strg+Umschalt+NumPad *, NumPad-2'</ShortCut>
+          <Description>2</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="3">
+        <Item>
+          <IdeaActionID>ExpandToLevel3</IdeaActionID>
+          <ShortCut>'Strg+NumPad *, 3' or 'Strg+NumPad *, NumPad-3'</ShortCut>
+          <Description>3</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Add">
         <Item>
           <IdeaActionID>Git.Add</IdeaActionID>
