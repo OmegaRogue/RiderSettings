@@ -6,7 +6,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Strg+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>5</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Auto-Indent Lines">
@@ -46,7 +46,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Strg+Alt+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12'</ShortCut>
           <Description>Declaration</Description>
-          <Count>25</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Docker">
@@ -169,12 +169,20 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Implementation(s)">
+        <Item>
+          <IdeaActionID>ReSharperGotoImplementation</IdeaActionID>
+          <ShortCut>'Strg+F12'</ShortCut>
+          <Description>Implementation(s)</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="New Project...">
         <Item>
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'Strg+Umschalt+N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="NuGet">
@@ -230,7 +238,7 @@
           <IdeaActionID>RiderUnitTestRepeatPreviousRunAction</IdeaActionID>
           <ShortCut>'Strg+U, U' or 'Strg+U, Strg+U'</ShortCut>
           <Description>Repeat Previous Run</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -238,7 +246,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Default'">
@@ -246,7 +254,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>97</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MySQL'">
@@ -286,7 +294,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Umschalt+F5'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>35</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround with Live Template...">
@@ -326,7 +334,7 @@
           <IdeaActionID>ActivateUnitTestsToolWindow</IdeaActionID>
           <ShortCut>'Alt+8' or 'Alt+Umschalt+8'</ShortCut>
           <Description>Unit Tests</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
