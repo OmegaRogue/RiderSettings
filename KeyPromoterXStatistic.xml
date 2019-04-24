@@ -22,7 +22,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Strg+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Auto-Indent Lines">
@@ -142,6 +142,14 @@
           <IdeaActionID>RiderEditSource</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Edit 'HID Document…erator.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'HIDDocumenta…Generator.sln'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'HIDDocumenta…Generator.sln'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -310,7 +318,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'Strg+R, R' or 'Strg+R, Strg+R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Repeat Previous Run">
