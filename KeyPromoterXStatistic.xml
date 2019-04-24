@@ -222,7 +222,7 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'Strg+Umschalt+N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
