@@ -22,7 +22,7 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'Strg+Alt+A'</ShortCut>
           <Description>Add</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Auto-Indent Lines">
@@ -129,6 +129,22 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Edit 'HID Document…Generator.sln'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'HID Document…Generator.sln'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Edit 'HID Document…erator.csproj'">
+        <Item>
+          <IdeaActionID>RiderEditSource</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Edit 'HID Document…erator.csproj'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Edit 'OmegaBot.csproj'">
         <Item>
           <IdeaActionID>RiderEditSource</IdeaActionID>
@@ -222,7 +238,7 @@
           <IdeaActionID>NewRiderProject</IdeaActionID>
           <ShortCut>'Strg+Umschalt+N'</ShortCut>
           <Description>New Project...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -294,7 +310,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'Strg+R, R' or 'Strg+R, Strg+R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Repeat Previous Run">
@@ -359,6 +375,14 @@
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
           <Count>40</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Solution or Project...">
+        <Item>
+          <IdeaActionID>RiderOpenSolution</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+O'</ShortCut>
+          <Description>Solution or Project...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Default'">
