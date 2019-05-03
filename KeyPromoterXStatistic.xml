@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12'</ShortCut>
           <Description>Declaration</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -415,6 +415,14 @@
           <ShortCut>'Umschalt+F5'</ShortCut>
           <Description>Stop 'Default'</Description>
           <Count>97</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unity.exe (pid: 39164)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Shift+F5'</ShortCut>
+          <Description>Stop 'Unity.exe (pid: 39164)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround with Live Template...">
