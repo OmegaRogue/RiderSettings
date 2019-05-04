@@ -342,7 +342,7 @@
           <IdeaActionID>RenameRiderItem</IdeaActionID>
           <ShortCut>'Strg+R, R' or 'Strg+R, Strg+R'</ShortCut>
           <Description>Rename...</Description>
-          <Count>17</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Repeat Previous Run">
@@ -407,6 +407,14 @@
           <ShortCut>'Strg+Alt+S'</ShortCut>
           <Description>Settings...</Description>
           <Count>42</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Intention Actions">
+        <Item>
+          <IdeaActionID>ShowIntentionActions</IdeaActionID>
+          <ShortCut>'Alt+Enter'</ShortCut>
+          <Description>Show Intention Actions</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Solution or Project...">
