@@ -217,6 +217,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Explorer">
+        <Item>
+          <IdeaActionID>ActivateExplorerToolWindow</IdeaActionID>
+          <ShortCut>'Alt+1'</ShortCut>
+          <Description>Explorer</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Favorites">
         <Item>
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
@@ -382,7 +390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>180</Count>
+          <Count>181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MySQL'">
