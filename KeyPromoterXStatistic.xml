@@ -390,7 +390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Strg+F5'</ShortCut>
           <Description>Run 'Default'</Description>
-          <Count>181</Count>
+          <Count>185</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'MySQL'">
@@ -446,7 +446,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Umschalt+F5'</ShortCut>
           <Description>Stop 'Default'</Description>
-          <Count>97</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Unity.exe (pid: 39164)'">
