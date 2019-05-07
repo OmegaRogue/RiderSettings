@@ -110,7 +110,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'F12'</ShortCut>
           <Description>Declaration</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -246,7 +246,7 @@
           <IdeaActionID>FindUsages</IdeaActionID>
           <ShortCut>'Umschalt+F12'</ShortCut>
           <Description>Find Usages</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
@@ -271,6 +271,14 @@
           <ShortCut>'Strg+F12'</ShortCut>
           <Description>Implementation(s)</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Inspect This...">
+        <Item>
+          <IdeaActionID>InspectThis</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+A'</ShortCut>
+          <Description>Inspect This...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Project...">
